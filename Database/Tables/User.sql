@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS `user` (
+    [UserID] INTEGER NOT NULL,
+    [Email] VARCHAR(100) NOT NULL,
+    [Password] VARCHAR(120) NOT NULL
+);

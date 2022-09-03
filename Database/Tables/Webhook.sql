@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS `webhook` (
+    [WebhookID] INTEGER NOT NULL,
+    [UserID] INTEGER NOT NULL
+);
